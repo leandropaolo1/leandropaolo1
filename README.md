@@ -2,8 +2,8 @@
 # 👋 Hi, I'm Leandro! 
 
 I am 20 years old and I currently reside in Salt Lake City, Utah.  I used
-to live in El Salvador, so I grew a liking to sailing, it sure is fun.
-I also practice Jujitsu on the side. As the saying goes "A healthy body, a healthy mind" (I think that's how the saying goes).
+to live in El Salvador, so I grew a liking to sailing and judo.
+As the saying goes "A healthy body, a healthy mind".
 
 
 ## 🚀 About Me
