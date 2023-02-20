@@ -25,19 +25,6 @@ I haven't found a real use to it. I might migrate some of my Django Rest APIs to
 
 
 ## 🛠 Skills
-Python - Junior Level
+Python, Julia, Django
 
-Django - Junior Level
-
-Bootstrap - Junior Level
-
-Julia - Amateur
-
-Rust - Amateur
-
-Flutter - Beginner
-
-Java - Beginner
-
-Javascript - Beginner
 
