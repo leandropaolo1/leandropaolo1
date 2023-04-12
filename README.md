@@ -1,9 +1,7 @@
 
 # 👋 Hi, I'm Leandro! 
 
-I am 20 years old and I currently reside in Salt Lake City, Utah.  I used
-to live in El Salvador, so I grew a liking to sailing and judo.
-As the saying goes "A healthy body, a healthy mind".
+I am 20 years old dreamer that is currently residing in Salt Lake City, Utah. 
 
 
 ## 🚀 About Me
