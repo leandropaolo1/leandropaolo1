@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Leandro! 
 
-I am 20 years old dreamer that is currently residing in Salt Lake City, Utah. 
+I am 21 year old dreamer that is currently residing in Salt Lake City, Utah. 
 
 
 ## 🚀 About Me
