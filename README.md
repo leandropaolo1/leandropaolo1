@@ -11,7 +11,7 @@ I love python, and julia. Hopefully one day I will fall in love with Rust or Dar
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://domain-registrar.storage.googleapis.com/expired.html?pantalla503.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lichess.org/@/lpcoop/perf/blitz)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-cooper/)
 
